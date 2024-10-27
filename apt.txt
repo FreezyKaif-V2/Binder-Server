@@ -1,0 +1,17 @@
+wget
+git-core 
+gnupg 
+flex 
+bison 
+gperf 
+build-essential 
+zip 
+curl 
+zlib1g-dev 
+gcc-multilib 
+pngcrush 
+schedtool 
+python 
+python3-kerberos 
+git 
+gnupg
