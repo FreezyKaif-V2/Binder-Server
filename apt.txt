@@ -11,7 +11,7 @@ zlib1g-dev
 gcc-multilib 
 pngcrush 
 schedtool 
-python 
+python-is-python3
 python3-kerberos 
 git 
 gnupg
